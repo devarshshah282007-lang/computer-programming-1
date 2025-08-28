@@ -6,7 +6,7 @@ void main()
     
     printf("Enter amount in rupees");
     scanf("%f", &r);
-    d=r/48;
-    printf("%f/48=%f",r,d);
+    d=r/48.0;
+    printf("%f/48.0=%f",r,d);
 
 }
