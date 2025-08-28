@@ -6,7 +6,7 @@ void main()
     
     printf("Enter amount in dollars");
     scanf("%f", &d);
-    p=70*d/48;
+    p=70*d/48.0;
     printf("%.2f*70/48=%.2f",d,p);
 
 }
