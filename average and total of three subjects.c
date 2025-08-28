@@ -4,7 +4,7 @@ void main()
 {
     float a,b,c,d,e;
     
-    printf("Enter 1st subject marksr\n");
+    printf("Enter 1st subject marks\n");
     scanf("%f",&a);
     printf("Enter 2nd subject marks \n");
     scanf("%f" ,&b);
